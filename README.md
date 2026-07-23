@@ -25,6 +25,12 @@ This is a sample AI SaaS application created for learning DevOps tools and AWS d
 - Code Assistant
 - Voice Assistant
 
+Task 1
+EC2 Deployment
+
+Task 2
+Elastic Beanstalk Deployment  
+
 ## Author
 
 Sai Sumanth
