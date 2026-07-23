@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+
+  ai-saas:
+
+    build: .
+
+    container_name: ai-saas-demo
+
+    ports:
+
+      - "80:80"
